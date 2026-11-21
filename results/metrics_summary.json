@@ -1,0 +1,14 @@
+{
+  "Baseline (Logistic Regression)": {
+    "Accuracy": 0.9972,
+    "Precision": 0.9972,
+    "Recall": 0.9972,
+    "F1_score": 0.9972
+  },
+  "Proposed (Gradient Boosting)": {
+    "Accuracy": 0.9944,
+    "Precision": 0.9944,
+    "Recall": 0.9944,
+    "F1_score": 0.9944
+  }
+}
